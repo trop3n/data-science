@@ -6,3 +6,5 @@ print(hour['count'].median())
 print(hour['count'].std())
 print(hour['registered'].min())
 print(hour['registered'].max())
+
+print(hour.describe())
